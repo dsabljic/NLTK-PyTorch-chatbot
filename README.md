@@ -2,7 +2,7 @@
 
 Clone repo
 ```
-git clone 
+git clone https://github.com/dsabljic/NLTK-PyTorch-chatbot.git
 cd NLTK-PyTorch_chatbot
 ```
 
