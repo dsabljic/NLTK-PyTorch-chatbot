@@ -32,4 +32,4 @@ This will dump data.pth file. And then run the following command to test it in t
 python chat.py
 ```
 
-RUn the app.py script for demo.
+Run the app.py script for demo.
