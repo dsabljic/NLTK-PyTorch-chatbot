@@ -7,7 +7,7 @@ cd NLTK-PyTorch_chatbot
 ```
 
 Create virtual environment and install dependencies
-```
+```bash
 python -m venv env
 env\Scripts\activate
 pip install flask torch torchvision nltk
